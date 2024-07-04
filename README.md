@@ -23,8 +23,31 @@
 
  <hr/>
 <br/>
+
+<h3 align="center">
+    <p style="color: #878F9E;">What I have studied</p>
+</h3>
+
+<br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,git,html,css,svelte" /><br>
+    
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,mysql,php,linux,git,vscode,vim)](https://skillicons.dev)
+</div>
+
+<br/>
+ <hr/>
+<br/>
+
+<h3 align="center">
+    <p style="color: 828282;">Still studying</p>
+</h3>
+
+<br/>
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=c,svelte)](https://skillicons.dev)
 </div>
 
 <br/>
