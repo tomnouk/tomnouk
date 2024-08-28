@@ -12,7 +12,7 @@
 
 <div align="center">
   <p style="color: #5472AE;">👩🏻‍💻 Studying at <strong>42 Firenze</strong></p>
-  <p style="color: #5472AE;"> Working on the Common Core's <code>Minishell</code> project</p>
+  <p style="color: #5472AE;"> Working on the Common Core's <code>Cub3d</code> project</p>
 </div>
 
 <br/>
