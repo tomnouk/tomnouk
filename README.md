@@ -1,10 +1,9 @@
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=tomnouk" alt="Visitor Count" align="right"/>
+<br/>
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5E2CA5&center=true&width=430&lines=Hi!+I'm+Anouk" alt="Typing SVG" width="900">
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
-    <div align="center">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=tomnouk" alt="Visitor Count" />
-    </div>
 
 </h1>
 
