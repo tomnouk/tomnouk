@@ -43,8 +43,9 @@
 
 <h3 align="center">
     <p style="color: 828282;">Still studying</p>
+    <img src="https://i.pinimg.com/originals/fb/54/84/fb54840e84aef6e2dcda3609caa8478f.gif" width="100">
 </h3>
-
+<br/>
 <br/>
 
 <div align="center">
